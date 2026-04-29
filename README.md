@@ -1,4 +1,34 @@
-## Hi there 👋
+<div align="left">
+  <h2>🚀 Sobre Mim</h2>
+  <p>
+    Com mais de <b>10 anos de experiência na área de TI</b>, minha trajetória reflete uma evolução sólida: desde o atendimento técnico em campo até a coordenação estratégica de infraestrutura. Essa vivência prática — passando pela telefonia, ADSL e fibra óptica — me deu a base necessária para liderar operações complexas com foco absoluto na entrega ao cliente final.
+  </p>
+  <p>
+    Hoje, como <b>Coordenador de TI na Sysmo Sistemas</b>, gerencio um ecossistema crítico de infraestrutura, inventário e segurança. Sou um entusiasta da cultura <b>Open Source</b> e acredito na eficiência do software livre para construir ambientes resilientes, escaláveis e de baixo custo de licenciamento.
+  </p>
+</div>
+
+<br>
+
+<div align="left">
+  <h3>🛠️ Destaques de Atuação e Expertise</h3>
+  
+  <ul>
+    <li><b>Ecossistema Open Source:</b> Lidero a implementação e gestão de ferramentas essenciais como <b>Zabbix, Grafana, GLPI, PFSense e Redmine</b>.</li>
+    <li><b>Virtualização e Linux:</b> Foco em ambientes virtualizados e servidores Linux, garantindo alta disponibilidade e otimização de recursos.</li>
+    <li><b>Automação e Dados:</b> Utilizo <b>Python e SQL</b> para automatizar tarefas rotineiras e integrar sistemas.</li>
+    <li><b>Gestão Estratégica:</b> Responsável por inventário, segurança da informação e redes.</li>
+  </ul>
+</div>
+
+<br>
+
+<div align="left">
+  <h3>🎓 Formação</h3>
+  <p>🎓 Bacharel em <b>Sistemas de Informação</b> pela UNOESC (2015).</p>
+</div>
+
+
 
 ### 📊 Estatísticas do GitHub
 
