@@ -1,3 +1,14 @@
+<div align="center">
+  <h1>Olá, eu sou o Cristiano Barichello 👋</h1>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crissbarichello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissbarichello&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<hr>
+
 <div align="left">
   <h2>🚀 Sobre Mim</h2>
   <p>
@@ -12,7 +23,6 @@
 
 <div align="left">
   <h3>🛠️ Destaques de Atuação e Expertise</h3>
-  
   <ul>
     <li><b>Ecossistema Open Source:</b> Lidero a implementação e gestão de ferramentas essenciais como <b>Zabbix, Grafana, GLPI, PFSense e Redmine</b>.</li>
     <li><b>Virtualização e Linux:</b> Foco em ambientes virtualizados e servidores Linux, garantindo alta disponibilidade e otimização de recursos.</li>
@@ -28,22 +38,20 @@
   <p>🎓 Bacharel em <b>Sistemas de Informação</b> pela UNOESC (2015).</p>
 </div>
 
+<br>
 
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crissbarichello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissbarichello&layout=compact&langs_count=7&theme=radical"/>
-</p>
 <div align="left">
-  <h2># Contatos</h2>
-  
-  <a href="https://www.linkedin.com/in/cristianobarichello/" target="_blank">
+  <h3>📫 Contatos</h3>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <a href="https://www.instagram.com/cristianobarichello" target="_blank">
+  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Este README foi configurado com 💙 para refletir uma trajetória de evolução técnica e estratégica.</sub>
 </div>
