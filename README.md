@@ -29,7 +29,7 @@
 <div align="left">
   <h3>🎓 Formação</h3>
   <p>🎓 Bacharel em <b>Sistemas de Informação</b> pela UNOESC - 2015.</p>
-  <p>🎓 Programador de Sistemas - Jovem Programador - 2026.</p>
+  <p>🎓 Programador de Sistemas - Jovem Programador SENAC - 2026.</p>
 </div>
 
 <br>
